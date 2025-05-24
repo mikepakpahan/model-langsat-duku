@@ -1,0 +1,16 @@
+# Folder Jupyter checkpoints
+.ipynb_checkpoints/
+
+# File & folder sampah
+node_modules/
+.env
+*.log
+__pycache__/
+.DS_Store
+
+# VSCode settings (opsional)
+.vscode/
+
+# Folder build atau dist (opsional)
+build/
+dist/
